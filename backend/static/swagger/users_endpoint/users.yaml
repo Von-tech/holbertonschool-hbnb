@@ -1,0 +1,8 @@
+get:
+  tags:
+    - User Endpoints
+  summary: Get all users
+  description: Get a list of all users
+  responses:
+    "200":
+      description: Successful operation
